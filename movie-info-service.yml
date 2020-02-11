@@ -4,4 +4,4 @@ app:
   
 moviedb:
   baseurl: http://api.themoviedb.org/3/movie/
-  key: 41e19c74b05cc1baaa2038ac60abe0a71
+  key: 41e19c74b05cc1baaa2038ac60abe0a7
