@@ -1,7 +1,7 @@
 app:
-  name: movie-info-dev-config-server-service, coming from service specific file, updated content, with refresh now
+  name: movie-info-dev-config-server-service, coming from service specific file, new content
   description : Welcome to my ${app.name}
   
 moviedb:
   baseurl: http://api.themoviedb.org/3/movie/
-  key: 41e19c74b05cc1baaa2038ac60abe0a7
+  key: 41e19c74b05cc1baaa2038ac60abe0a71
