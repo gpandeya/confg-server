@@ -1,5 +1,5 @@
 app:
-  name: movie-info-dev-config-server-service, coming from service specific file, new content
+  name: movie-info-dev-config-server-service, coming from remote now
   description : Welcome to my ${app.name}
   
 moviedb:
