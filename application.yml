@@ -1,0 +1,3 @@
+app:
+  name: movie-info-dev-config-server-service
+  description : Welcome to my ${app.name}
